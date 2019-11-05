@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.ifmo.se</OriginalElement>
+  <nodes>
+    <node x="902.5" y="116.0">ru.ifmo.se.Facade</node>
+    <node x="7.0" y="192.0">ru.ifmo.se.Gabite</node>
+    <node x="322.50000000000006" y="116.0">ru.ifmo.se.AcidSpray</node>
+    <node x="592.0000000000001" y="0.0">ru.ifmo.se.pokemon</node>
+    <node x="0.0" y="339.0">ru.ifmo.se.Battle_set</node>
+    <node x="452.50000000000006" y="116.0">ru.ifmo.se.Scald</node>
+    <node x="1287.5" y="116.0">ru.ifmo.se.Zapdos</node>
+    <node x="1149.5" y="116.0">ru.ifmo.se.Crabrawler</node>
+    <node x="10.5" y="116.0">ru.ifmo.se.Gible</node>
+    <node x="0.0" y="268.0">ru.ifmo.se.Garchomp</node>
+    <node x="670.5" y="116.0">ru.ifmo.se.Swagger</node>
+    <node x="1011.5" y="116.0">ru.ifmo.se.AuroraBeam</node>
+    <node x="112.5" y="116.0">ru.ifmo.se.Rest</node>
+    <node x="1142.5" y="192.0">ru.ifmo.se.Crabominable</node>
+    <node x="554.5" y="116.0">ru.ifmo.se.IcyWind</node>
+    <node x="786.5" y="116.0">ru.ifmo.se.Twister</node>
+    <node x="206.50000000000006" y="116.0">ru.ifmo.se.Confide</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.ifmo.se.Rest" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="149.5" y="56.0" />
+      <point x="609.1250000000001" y="56.0" />
+      <point x="-51.375" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Gible" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="51.5" y="46.0" />
+      <point x="597.7083333333335" y="46.0" />
+      <point x="-62.79166666666663" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Twister" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="834.5" y="86.0" />
+      <point x="677.6250000000001" y="86.0" />
+      <point x="17.125" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.AcidSpray" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="377.50000000000006" y="76.0" />
+      <point x="631.9583333333335" y="76.0" />
+      <point x="-28.54166666666663" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Gabite" target="ru.ifmo.se.Gible">
+      <point x="0.0" y="-13.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Crabominable" target="ru.ifmo.se.Crabrawler">
+      <point x="0.0" y="-13.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Crabrawler" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="1208.5" y="56.0" />
+      <point x="711.8750000000001" y="56.0" />
+      <point x="51.375" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Facade" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="947.0" y="76.0" />
+      <point x="689.0416666666667" y="76.0" />
+      <point x="28.54166666666663" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Confide" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="254.50000000000006" y="66.0" />
+      <point x="620.5416666666667" y="66.0" />
+      <point x="-39.95833333333337" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Swagger" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="718.5" y="96.0" />
+      <point x="666.2083333333334" y="96.0" />
+      <point x="5.7083333333332575" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.AuroraBeam" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="1070.5" y="66.0" />
+      <point x="700.4583333333334" y="66.0" />
+      <point x="39.95833333333326" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Zapdos" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="1332.0" y="46.0" />
+      <point x="723.2916666666667" y="46.0" />
+      <point x="62.79166666666663" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Scald" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="493.50000000000006" y="86.0" />
+      <point x="643.3750000000001" y="86.0" />
+      <point x="-17.125" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.Garchomp" target="ru.ifmo.se.Gabite">
+      <point x="0.0" y="-13.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="ru.ifmo.se.IcyWind" target="ru.ifmo.se.pokemon">
+      <point x="0.0" y="-13.0" />
+      <point x="602.5" y="96.0" />
+      <point x="654.7916666666667" y="96.0" />
+      <point x="-5.708333333333371" y="13.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8017179670722978" x="688.5" y="182.5" />
+  <SelectedNodes>
+    <node>ru.ifmo.se.pokemon</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
